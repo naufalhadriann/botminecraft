@@ -1,6 +1,0 @@
-{
-      "ip": "gamercitizen.aternos.me",
-      "port": "62058",
-      "name": "ADMIN",
-      "auto-night-skip":"false"
-}
